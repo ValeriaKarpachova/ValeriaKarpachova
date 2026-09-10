@@ -1,6 +1,6 @@
 # Hi, I'm Valeria 👋
 
-3rd-year Computer Engineering student at Kryvyi Rih National University.  
+4rd-year Computer Engineering student at Kryvyi Rih National University.  
 I build desktop applications with C# and .NET — focused on clean architecture,  
 multithreading, and real-world usability. Looking for my first junior developer role.
 
