@@ -36,5 +36,5 @@ Built with WPF · .NET 10 · SQLite · LiveChartsCore · multithreading.
 
 ## 📫 Contact
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/akana_san)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/valeria_karpachova)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeria-karpachova-3bb0ab385)
