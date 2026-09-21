@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&height=220&color=0:512BD4,100:0078D4&text=.NET%20Desktop%20Developer&fontColor=FFFFFF&fontSize=48&desc=C%23%20%C2%B7%20WPF%20%C2%B7%20Multithreading&descSize=22&descAlignY=72" alt=".NET Desktop Developer — C# · WPF · Multithreading" width="100%" />
+<img src="assets/terminal.svg" alt="Terminal animation: .NET Desktop Developer" width="700" />
 
 <h1 align="left">Hi, I'm Valeria 👋</h1>
 
@@ -47,7 +47,7 @@ multithreading, and real-world usability.
 > A desktop app for managing student workload.
 
 <p align="center">
-  <img src="assets/study-planner.png" alt="MultiThreaded Study Planner screenshot" width="85%" />
+  <img src="assets/study-planner.png" alt="MultiThreaded Study Planner screenshot" width="100%" />
 </p>
 
 - 📅 Task scheduling and deadline analysis
