@@ -11,7 +11,6 @@ multithreading, and real-world usability.
 ---
 
 <h2 align="left">🛠 Tech Stack</h2> <table align="center"> <tr> <th align="center">💻 Languages &amp; Platform</th> <th align="center">🗄️ Data</th> <th align="center">🧰 Tools</th> </tr> <tr> <td align="center" valign="middle"> <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,windows&perline=4" height="48" alt="Languages and platform" /> </td> <td align="center" valign="middle"> <img src="https://skillicons.dev/icons?i=sqlite,postgres,mongodb&perline=3" height="48" alt="Data" /> </td> <td align="center" valign="middle"> <img src="https://skillicons.dev/icons?i=docker,git,github,visualstudio,vscode&perline=5" height="48" alt="Tools" /> </td> </tr> </table> <p align="center"> <img src="https://img.shields.io/badge/WPF-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="WPF" /> <img src="https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white" alt="XAML" /> <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="LINQ" /> <img src="https://img.shields.io/badge/Multithreading-24292F?style=for-the-badge" alt="Multithreading" /> </p>
----
 
 <h2 align="left">🔨 Featured Project</h2>
 
@@ -27,9 +26,7 @@ multithreading, and real-world usability.
 - 🧮 Automatic priority calculation
 - ⏱️ Pomodoro timer and background monitoring
 
-**Built with:**
-
-<p>
+**Built with:** <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 10" />
   <img src="https://img.shields.io/badge/WPF-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="WPF" />
