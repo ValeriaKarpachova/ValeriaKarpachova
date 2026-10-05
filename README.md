@@ -34,9 +34,15 @@ multithreading, and real-world usability.
 <p align="center">
   <img src="https://img.shields.io/badge/WPF-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="WPF" />
   <img src="https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white" alt="XAML" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="EF Core" />
+  <img src="https://img.shields.io/badge/Blazor_Server-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor Server" />
   <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="LINQ" />
+  <img src="https://img.shields.io/badge/Dapper-A41E22?style=for-the-badge" alt="Dapper" />
   <img src="https://img.shields.io/badge/Multithreading-24292F?style=for-the-badge" alt="Multithreading" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
+
 
 ---
 
@@ -53,8 +59,6 @@ multithreading, and real-world usability.
 - 📅 Task scheduling and deadline analysis
 - 🧮 Automatic priority calculation
 - ⏱️ Pomodoro timer and background monitoring
-
-**Built with:**
 
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
@@ -100,10 +104,11 @@ multithreading, and real-world usability.
 
 <h2 align="left">📚 Currently Learning</h2>
 
-- **Entity Framework Core** — ORM for .NET, natural next step after raw SQLite
-- **ASP.NET Core basics** — to eventually build APIs alongside desktop clients
-- **Blazor Server** — building interactive web UIs in C#
-- **SignalR** — real-time communication between server and clients
+- **SignalR** — real-time communication and live updates
+- **React** — building modern interactive web interfaces
+- **JWT Authentication** — implementing token-based authentication in ASP.NET Core
+- **GitHub Actions** — CI/CD workflows, automated builds and testing
+- **Jenkins** — CI/CD automation and build pipelines
 
 ---
 
