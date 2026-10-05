@@ -1,4 +1,4 @@
-<img src="assets/terminal.svg" alt="Terminal animation: .NET Desktop Developer" width="700" />
+<img src="assets/terminal.svg" alt="Terminal animation: .NET Desktop Developer" width="1000" />
 
 <h1 align="left">Hi, I'm Valeria 👋</h1>
 
@@ -69,9 +69,9 @@ multithreading, and real-world usability.
 
 ---
 
-<h2 align="left">🚧 In Progress</h2>
+<h2 align="left"><img src="assets/in-progress.svg" alt="Status: in development" height="60" valign="middle" /> </h2>
 
-### [CinemaSystem](https://github.com/ValeriaKarpachova/CinemaSystem) &nbsp;<img src="assets/in-progress.svg" alt="Status: in development" height="60" valign="middle" />
+### [CinemaSystem](https://github.com/ValeriaKarpachova/CinemaSystem) &nbsp;
 
 > A cinema booking platform — built to explore server-side Blazor and real-time features.
 
